@@ -1,7 +1,12 @@
 To make sure that everyone managed to collaborate on this project, please add your GitHub user name below:
 
+<<<<<<< HEAD
 1. Eisen9 
 2. sdaanoy
+=======
+1. Eisen9 
+2. sdaanoy testing branches
+>>>>>>> 05a13928815a4f700acbdf0d0836ca5d0e3c45fd
 3. CosmicRatio
 4.  
 5.
